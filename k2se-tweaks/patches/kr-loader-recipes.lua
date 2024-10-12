@@ -5,7 +5,7 @@
 --- Note that this also affects Space Loaders and Deep Space Loaders, which wasn't the case before
 --- patch 0.6.121.
 
-local util = require("nulls-k2se.util")
+local util = require("k2se-tweaks.util")
 local patch = util.patch.new_patch("kr-loader-recipe")
 
 patch:add_required_startup_setting_equal("nulls-k2se-k2-loader-recipe", true)

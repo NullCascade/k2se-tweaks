@@ -1,6 +1,6 @@
 local util_recipe = {}
-local util_table = require("nulls-k2se.util.table")
-local util_ingredient = require("nulls-k2se.util.ingredient")
+local util_table = require("k2se-tweaks.util.table")
+local util_ingredient = require("k2se-tweaks.util.ingredient")
 
 local limitation_strings = {
 	effectivity = "efficiency-module-not-allowed",

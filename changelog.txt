@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2024-02-03
+  Additions:
+    - Added new setting to use Krastorio 2 robot values.
+  ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2024-01-27
+  Additions:
+    - Added settings for features added in 0.1.0.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-01-27
+  Additions:
+    - New patch: Use Krastorio 2 style loader recipes.
+	- New patch: Restore efficiency module usage on Atmospheric Condensers and Electrolysis Plants.
+
